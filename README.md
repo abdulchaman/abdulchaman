@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/@shaikchaman985)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/abdul-chaman-sk)](https://www.linkedin.com/in/abdul-chaman-sk)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](#)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Abdul_Chaman-red)](https://www.youtube.com/@shaikchaman985)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdul_Chaman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/abdul-chaman-sk)](https://www.linkedin.com/in/abdul-chaman-sk)
+[![Website Badge](https://img.shields.io/badge/WebSite-Abdul_Chaman-green)](#)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Abdul_Chaman-yellow)](https://stackoverflow.com/users/17453440/shaik-chaman)
 
 I'm
 Front End Developer
