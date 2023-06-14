@@ -7,7 +7,7 @@
 
 I'm
 Front End Developer
-The process of design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include front-end development using technologies (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UI)
+The process of design and programming has always been of interest to me, and I've been lucky enough to work alongside some talented teams. I have a wide range of skills that include front-end development using technologies (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UI)
 
 
 Languages and Tools: 
